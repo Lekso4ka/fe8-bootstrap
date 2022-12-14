@@ -1,0 +1,24 @@
+npm - node package manager => node_modules
+yarn - пакетный менеджер со стороны
+
+Работает только от имени администратора
+sudo npm i yarn -g
+npm install yarn --global
+
+Проверка установки yarn:
+yarn --version
+
+npm install => 16058 (105Mb)
+yarn install => 15498 (101Mb)
+
+Запуск проекта на yarn 
+yarn start
+
+Остановка проекта на yarn
+Ctrl + C
+
+Bootstrap без реакта (html/css)
+https://getbootstrap.com/
+
+Ролик от Лексы
+https://www.youtube.com/watch?v=uZ7mNJlLy6w&list=PLPNYkZcYUF4tbHazsLLRu8f4VGAv87EsO&index=3&ab_channel=SpecialistTV
