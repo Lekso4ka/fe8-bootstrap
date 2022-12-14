@@ -19,6 +19,19 @@ Ctrl + C
 
 Bootstrap без реакта (html/css)
 https://getbootstrap.com/
+То же самое на русском:
+https://bootstrap-4.ru/
+
+Bootsrap на React
+https://react-bootstrap.github.io/
+yarn add react-bootstrap
+
+Иконки Bootstrap-icons 
+https://icons.getbootstrap.com/
+
+Bootstrap-icons на React
+https://www.npmjs.com/package/react-bootstrap-icons
+yarn add react-bootstrap-icons
 
 Ролик от Лексы
 https://www.youtube.com/watch?v=uZ7mNJlLy6w&list=PLPNYkZcYUF4tbHazsLLRu8f4VGAv87EsO&index=3&ab_channel=SpecialistTV
