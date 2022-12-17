@@ -11,6 +11,10 @@
 		"start": "webpack serve"
 	},
 	"dependencies": {
+		"@emotion/react": "^11.10.5",
+		"@emotion/styled": "^11.10.5",
+		"@mui/material": "^5.11.0",
+		"@mui/styles": "^5.11.0",
 		"bootstrap": "^5.2.3",
 		"core-js": "^3.21.1",
 		"react": "^17.0.2",

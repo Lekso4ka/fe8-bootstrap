@@ -1,3 +1,4 @@
+
 npm - node package manager => node_modules
 yarn - пакетный менеджер со стороны
 
@@ -7,6 +8,8 @@ npm install yarn --global
 
 Проверка установки yarn:
 yarn --version
+
+Если Windows не хочет работать (VSCode) => cmd
 
 npm install => 16058 (105Mb)
 yarn install => 15498 (101Mb)
@@ -35,3 +38,10 @@ yarn add react-bootstrap-icons
 
 Ролик от Лексы
 https://www.youtube.com/watch?v=uZ7mNJlLy6w&list=PLPNYkZcYUF4tbHazsLLRu8f4VGAv87EsO&index=3&ab_channel=SpecialistTV
+
+Интересная статья про дизайн
+https://ux.pub/editorial/glassmorfizm-glassmorphism-novyi-triend-v-dizainie-intierfieisov-437k
+
+MUI
+https://mui.com/
+npm install @mui/material @emotion/react @emotion/styled
