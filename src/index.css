@@ -20,11 +20,41 @@ h1 img {
 		transform: rotate(360deg);
 	}
 }
-.container, .container-fluid {
-	background-color: bisque;
-	min-height: 100vh;
-}
+
 .col {
 	border: 1px solid black;
 	border-radius: 10px;
+}
+.tabs-container {
+	display: grid;
+	padding: 2rem 0;
+}
+.tabs-nav .active {
+	background-color: #61dafb;
+	color: #fff;
+	border-bottom-color: #61dafb;
+}
+.tabs-nav {
+	border-bottom: 1px solid #222;
+}
+.tabs-nav button {
+	background-color: transparent;
+	border: 1px solid #222;
+	height: 2rem;
+	padding: 0 12px;
+	border-radius: 6px 6px 0 0;
+	position: relative;
+	top: 1px;
+}
+.tabs-data {
+	padding: 20px;
+	border: 1px solid #222;
+	border-top: none;
+	border-radius: 0 0 6px 6px;
+	background-color: #61dafb;
+}
+.menu {
+	display: flex;
+	gap: 20px;
+	box-shadow: 0 2px 2px 0 #222;
 }
